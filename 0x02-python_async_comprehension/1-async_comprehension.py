@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """A coroutine to return 10 random numbers"""
 
